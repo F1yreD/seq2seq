@@ -1,4 +1,5 @@
 *.txt
 .cache/
 wmt16 back/
+checkpoints/
 Untitled-1.py
